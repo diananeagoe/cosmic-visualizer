@@ -1,0 +1,36 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment
+.env
+.env.local
+*.env
+env/
+venv/
+.venv
+
+backend/uploads/
+backend/tmp/
+
+.vscode/*
+.DS_Store
+
+.vite/
+
+*.log
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+*.db
+
+.lh/
+.history/
